@@ -1,1 +1,1 @@
-Hello 👋, I'm Ozan Sap
+Hello 👋, I'm Ozan. I study Computer Science in RWTH Aachen.
